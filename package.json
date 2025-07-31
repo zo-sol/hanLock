@@ -1,0 +1,33 @@
+{
+  "name": "hanlock",
+  "version": "1.0.0",
+  "description": "A Korean syllable-based secure encoding system using password-dependent table mutation.",
+  "main": "dist/hanLock.js",
+  "types": "dist/hanLock.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zo-sol/hanLock.git"
+  },
+  "keywords": [
+    "hangul",
+    "encoding",
+    "korean",
+    "password",
+    "base11172",
+    "secure",
+    "crypto-like",
+    "custom-encoding"
+  ],
+  "author": "Zo(Sumin Kim)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}
