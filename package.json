@@ -1,6 +1,6 @@
 {
   "name": "hanlock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Korean syllable-based secure encoding system using password-dependent table mutation.",
   "main": "dist/hanLock.js",
   "types": "dist/hanLock.d.ts",
